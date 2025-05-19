@@ -31,7 +31,7 @@ Improves user experience by allowing users to verify their password input.
 Enhances accessibility and usability for password fields in forms.
 
 
-The <input type="password"> HTML element creates a text field where the characters typed by the user are masked
+The input type="password" HTML element creates a text field where the characters typed by the user are masked
 
 ![image](https://github.com/user-attachments/assets/2c4a282d-e065-47e9-b36b-0e44eae26d06)
 
